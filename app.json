@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "react_native_jobs",
+    "slug": "react_native_jobs",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "4b185a4f-fa02-4b6d-9513-516e5bfce83d"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/4b185a4f-fa02-4b6d-9513-516e5bfce83d"
+    },
+    "android": {},
+    "ios": {}
+  }
+}
